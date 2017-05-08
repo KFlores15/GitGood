@@ -1,0 +1,1 @@
+A txt file that shoud be added to main branch but removed if master is merged with delete branch
