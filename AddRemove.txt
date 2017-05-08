@@ -1,1 +1,8 @@
 A txt file that shoud be added to main branch but removed if master is merged with delete branch
+
+
+Added extra text to fileto show that new edits have been added after merge of amster and Addfiles were complete.  
+
+If Master and Delete get merged later, then Master and Add Files will be remerged.  
+
+Edits will be gone due to using earlier version.
