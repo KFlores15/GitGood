@@ -1,1 +1,6 @@
 a txt file that is amde in branches to be merged onto main file
+
+
+Now that merge is complete, Addition1 and Addition2 will 
+be on amster banch now unless deleted specifically, or merged 
+with an update delete branch made to delete this files.
