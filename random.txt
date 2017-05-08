@@ -1,1 +1,3 @@
 echo "This is a mistake"
+
+Warnng: do not merge with Delete fle if oyu don not want to delete this file.  MErge with Delete is only to show deletion of specific files
