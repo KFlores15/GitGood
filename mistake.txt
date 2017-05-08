@@ -1,1 +1,5 @@
-mistake happening.
+<<<<<<< HEAD
+mistake happening!
+=======
+mistake happening!
+>>>>>>> mistake
