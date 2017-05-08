@@ -1,1 +1,3 @@
-mistake happening!
+Now that FIle is uploaded on website.  There is no more mistakes Hooray!
+
+Mistake is fixed now unless new merge occurs with old files.
